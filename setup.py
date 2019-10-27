@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='base91',
+    name='python3-base91',
     version='1.0.1',
     packages=['base91'],
     url='https://github.com/SunDwarf/base91-python',
